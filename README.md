@@ -111,10 +111,4 @@ Stay connected and follow me on:
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
-
----
-
 ### Made with ❤️ by [CodeWithRanjHa](https://github.com/CodeWithRanjHa) ✨
